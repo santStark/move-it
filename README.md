@@ -1,5 +1,5 @@
 # move-it
-Projeto criado com o curso da NLW #4
+Projeto React com Next.js usando Typescript baseado no curso da NLW #4
 
 # Instalação
 
